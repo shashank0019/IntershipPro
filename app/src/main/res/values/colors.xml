@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_primary">#2E7D32</color>
+    <color name="green_dark">#1B3022</color>
+    <color name="green_accent">#B8E65C</color>
+    <color name="background_dark">#121B17</color>
+    <color name="surface_dark">#1E2A24</color>
+    <color name="pale_green">#E8F5E9</color>
+    <color name="pale_red">#FFEBEE</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_grey">#B0B0B0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="danger">#FF5252</color>
+
+    <!-- Gradient Colors for Wildlife Cards -->
+    <color name="tiger_start">#E69A5E</color>
+    <color name="elephant_start">#B0A8A0</color>
+    <color name="leopard_start">#D4AF37</color>
+    <color name="birds_start">#4A90E2</color>
+    <color name="lion_start">#C0912E</color>
+    <color name="bear_start">#7D6B63</color>
+    <color name="text_dark">#1F1F1F</color>
+    <color name="text_muted">#5F5F5F</color>
+    <color name="brown_900">#4E342E</color>
+    <color name="brown_700">#6D4C41</color>
+    <color name="teal_700">#018786</color>
+</resources>

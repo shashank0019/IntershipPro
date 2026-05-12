@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Karunada-Vanya</string>
+
+    <string-array name="animal_types">
+        <item>Elephant</item>
+        <item>Tiger</item>
+        <item>Leopard</item>
+        <item>Bear</item>
+        <item>Bison</item>
+        <item>Wild Boar</item>
+        <item>Snake</item>
+        <item>Others</item>
+    </string-array>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <string name="education">Education</string>
+    <string name="alerts">Alerts</string>
+    <string name="sounds">Sounds</string>
+    <string name="guide">Guide</string>
+</resources>

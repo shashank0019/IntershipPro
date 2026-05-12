@@ -1,0 +1,122 @@
+[ 
+  {
+    "name": "Tiger",
+    "description": "The Bengal Tiger is India's apex predator and one of the most iconic big cats of the region.",
+    "habitat": "Dense forests, tall grasslands",
+    "behavior": "Solitary and territorial; active at dawn and dusk.",
+    "safetyTips": "Do not run. Back away slowly and keep visual contact.",
+    "imageName": "animal_tiger"
+  },
+  {
+    "name": "Lion",
+    "description": "The Asiatic Lion survives in limited habitats and is a powerful social predator.",
+    "habitat": "Dry deciduous forests, scrublands",
+    "behavior": "Lives in prides; rests during the day and hunts in cooler hours.",
+    "safetyTips": "Keep distance from pride zones and avoid approaching carcass sites.",
+    "imageName": "animal_lion"
+  },
+  {
+    "name": "Elephant",
+    "description": "Indian Elephants are highly intelligent herd animals with strong social bonds.",
+    "habitat": "Forest edges and water-rich habitats",
+    "behavior": "Usually calm, but defensive around calves.",
+    "safetyTips": "Never block herd movement and maintain wide distance.",
+    "imageName": "animal_elephant"
+  },
+  {
+    "name": "Leopard",
+    "description": "Leopards are stealthy and adaptable predators that can live near settlements.",
+    "habitat": "Rocky hills, forest patches, agricultural edges",
+    "behavior": "Mostly nocturnal and solitary; expert climbers.",
+    "safetyTips": "Avoid walking alone at night near forest fringes.",
+    "imageName": "animal_leopard"
+  },
+  {
+    "name": "Bear",
+    "description": "Sloth bears are strong, short-sighted mammals that may charge when surprised.",
+    "habitat": "Forests, rocky outcrops, hilly areas",
+    "behavior": "Mainly nocturnal; forages for termites, fruit, and honey.",
+    "safetyTips": "Make noise while moving through dense vegetation.",
+    "imageName": "animal_bear"
+  },
+  {
+    "name": "Gaur",
+    "description": "Gaur are the largest wild cattle and can be dangerous if disturbed.",
+    "habitat": "Mixed forests and grassy clearings",
+    "behavior": "Herd-living and usually shy, but defensive when threatened.",
+    "safetyTips": "Do not honk or approach gaur on roads.",
+    "imageName": "animal_gaur"
+  },
+  {
+    "name": "Wild Boar",
+    "description": "Wild boars are fast and aggressive with sharp tusks.",
+    "habitat": "Forests, scrublands, crop fields",
+    "behavior": "Often active at dawn and dusk; move in family groups.",
+    "safetyTips": "If charged, move behind a tree or climb to safety.",
+    "imageName": "animal_boar"
+  },
+  {
+    "name": "Crocodile",
+    "description": "Mugger crocodiles are ambush predators found in freshwater bodies.",
+    "habitat": "Rivers, lakes, reservoirs, wetlands",
+    "behavior": "Basks near banks and strikes quickly at close range.",
+    "safetyTips": "Stay well away from water edges in known habitats.",
+    "imageName": "animal_crocodile"
+  },
+  {
+    "name": "Snake",
+    "description": "Venomous snakes including king cobra may inhabit forest and farm edges.",
+    "habitat": "Forests, bamboo patches, grasslands",
+    "behavior": "Often avoids humans, but bites when cornered or stepped on.",
+    "safetyTips": "Wear boots and never attempt to catch a snake.",
+    "imageName": "animal_snake"
+  },
+  {
+    "name": "Wolf",
+    "description": "Indian wolves are alert, pack-oriented predators of open dry landscapes.",
+    "habitat": "Dry grasslands, scrublands, semi-arid plains",
+    "behavior": "Mostly nocturnal; hunts in coordinated groups.",
+    "safetyTips": "Secure livestock and avoid isolated night movement.",
+    "imageName": "animal_wolf"
+  },
+  {
+    "name": "Deer",
+    "description": "Spotted deer are common herbivores and key prey species in forest ecosystems.",
+    "habitat": "Forest clearings, grasslands, river banks",
+    "behavior": "Timid and alert; males can be aggressive in mating season.",
+    "safetyTips": "Observe from distance and do not corner animals.",
+    "imageName": "animal_deer"
+  },
+  {
+    "name": "Peacock",
+    "description": "Peacocks are vibrant ground birds known for display behavior in monsoon.",
+    "habitat": "Open forests, farmlands, scrublands",
+    "behavior": "Territorial in breeding season; active in early morning.",
+    "safetyTips": "Avoid disturbing nests or chicks.",
+    "imageName": "animal_peacock"
+  },
+  {
+    "name": "Monkey",
+    "description": "Macaques are intelligent primates that adapt quickly to human spaces.",
+    "habitat": "Forests, temple zones, urban edges",
+    "behavior": "Social troop-living behavior; food-conditioned groups may be aggressive.",
+    "safetyTips": "Do not feed monkeys and keep food hidden.",
+    "imageName": "animal_monkey"
+  },
+  {
+    "name": "Fox",
+    "description": "Indian foxes are small canids adapted to open plains and scrub.",
+    "habitat": "Grasslands, scrublands, semi-arid regions",
+    "behavior": "Mostly nocturnal and elusive.",
+    "safetyTips": "Do not attempt rescue; contact wildlife authorities if injured.",
+    "imageName": "animal_fox"
+  },
+  {
+    "name": "Eagle",
+    "description": "Eagles are powerful raptors with excellent vision and soaring flight.",
+    "habitat": "Cliffs, open woodland, river valleys",
+    "behavior": "Daytime hunters; nests in high, undisturbed sites.",
+    "safetyTips": "Stay clear of nesting zones and avoid throwing food scraps.",
+    "imageName": "animal_eagle"
+  }
+]
